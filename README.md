@@ -37,7 +37,7 @@ Ring Python is a Ring library that provides Python bindings for the [Ring](https
 
 ### Prerequisites
 
-- **[Ring](https://ring-lang.github.io/download.html):** Version 1.25 or higher.
+- **[Ring](https://ring-lang.github.io/download.html):** Version 1.27 or higher.
 - **[Python](https://www.python.org/downloads/):** Version 3.7 or higher (development headers required on Linux).
 
 ### Installation
